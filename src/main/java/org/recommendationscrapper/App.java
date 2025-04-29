@@ -1,4 +1,4 @@
-package org.webscrapping;
+package org.recommendationscrapper;
 
 public class App {
     public static void main(String[] args) {
